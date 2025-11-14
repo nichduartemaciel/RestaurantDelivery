@@ -58,7 +58,7 @@ class telaHomeState extends State<telaHome> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  'seu delivery',
+                  'o seu delivery',
                   style: TextStyle(
                     color: Colors.red[700],
                     fontWeight: FontWeight.bold,

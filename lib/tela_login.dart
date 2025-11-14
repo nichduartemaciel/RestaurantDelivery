@@ -42,7 +42,7 @@ class telaLoginState extends State<telaLogin>{
                 controller: usuarioController,
                 decoration: const InputDecoration(
                   border: UnderlineInputBorder(),
-                  labelText: 'Usuário',
+                  labelText: 'Usuer',
                   labelStyle: TextStyle(color: Colors.white, fontSize: 16),
 
                 ),
@@ -61,7 +61,7 @@ class telaLoginState extends State<telaLogin>{
                 obscureText: true,
                 decoration: const InputDecoration(
                   border: UnderlineInputBorder(),
-                  labelText: 'Senha',
+                  labelText: 'Password',
                   labelStyle: TextStyle(color: Colors.white, fontSize: 16),
                 ),
               ),
